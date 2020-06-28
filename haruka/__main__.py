@@ -22,12 +22,13 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
+You know how hard it is sometimes to manage group so here is the solution for you.
 
-I'm group manager bot and Anti-scam for RR Players🃏
+Made with love by @TheRealLien .
+Feel free to message my master for any kind of help.
 
-Active Anti-scam protection in your BM by this command : 
-/antiscam on 
+Join the bot support group ( @TheCiaSupport ) if you need any bot support or help.
+
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
